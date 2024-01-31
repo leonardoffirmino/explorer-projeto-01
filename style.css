@@ -37,6 +37,8 @@ p, #footer{
 }
 
 
+
+
 #footer a + a {
   margin-left: 28px;
 
@@ -47,4 +49,12 @@ p, #footer{
   height: 0px;
   margin: 0 auto 8px; 
   border: 1px solid #ECEFF2;
+}
+
+#balls{
+  position: fixed;
+  bottom:0px;
+  right:0px;
+
+
 }
